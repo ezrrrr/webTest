@@ -1,0 +1,51 @@
+@charset "utf-8";
+body{
+	background-color: pink;
+}
+input{
+	background-color: yellow;
+	width: 250px;
+	color: blue;
+}
+input:hover {
+	/*background-color: pink;
+	border: 5px solid green;*/
+}
+textarea {
+	background-color: green;
+	color: white;
+}
+.t1{
+	width: 100px;
+	background-color: green;
+	text-align: center;
+}
+.t2{
+	width: 280px;
+	background-color: red;
+}
+button {
+	background-color: gold;
+}
+button:hover {
+	/*background-color: red;
+	border: 10px dotted blue;*/
+}
+.t3{
+	background-color: green;
+	text-align: center;
+}
+.t4{
+	background-color: yellow;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
